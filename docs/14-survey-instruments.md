@@ -1,6 +1,8 @@
 # 14. Survey Instruments
 
-The lab surveys members at the start and end of each appointment. The surveys show whether the program builds research skills and a sense of belonging in research, and they guide changes to the program. Using the same items across units, such as the Vic Research Hub, allows results to be compared.
+The lab surveys members at the start and end of each appointment. The surveys show whether the program builds research skills and a sense of belonging in research, and they guide changes to the program. K.R.L. ran three surveys with its first cohort of eight members in 2025–26, and those results shaped the design of the Vic Research Hub. Using the same items across units allows results to be compared.
+
+The Council on Undergraduate Research lists assessment as one of eleven characteristics of excellent undergraduate research programs. Others include a student-centred design and the dissemination of student work (Council on Undergraduate Research, 2024).
 
 Surveys are anonymous and voluntary. They take about 10 minutes. Responses are reported only in aggregate. If survey results will be used in a publication, the study must first receive ethics approval.
 
@@ -53,7 +55,7 @@ Rate how useful each feature was from 1 (not useful) to 5 (very useful), or "did
 21. Working with other students on a team
 22. Presenting at the seminar
 23. Attending other members' seminar talks
-24. The trainee agreement (clear scope and deliverable)
+24. The project description (clear scope and deliverable)
 25. This manual
 
 **Change in research identity**
@@ -79,3 +81,7 @@ Rate how useful each feature was from 1 (not useful) to 5 (very useful), or "did
 - Send the entry survey in week 1 and the exit survey in the last week of the appointment.
 - Use Microsoft Forms through the University account so that data stays on University systems.
 - Someone other than the direct supervisor should send reminders, to reduce pressure to respond.
+
+## Sources
+
+- Council on Undergraduate Research. (2024). *Characteristics of Excellence in Undergraduate Research* (COEUR 2.0). <https://www.cur.org/>

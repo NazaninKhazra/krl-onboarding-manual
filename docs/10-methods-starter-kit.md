@@ -51,11 +51,13 @@ es = smf.ols(
 
 Plot the coefficients with their confidence intervals against `rel_year`.
 
+**Reference:** Shapiro, J. M., and Sun, L. (2023). "Linear Panel Event Studies." NBER Methods Lectures, slides and videos. <https://www.nber.org/lecture/2023-methods-lectures-jesse-shapiro-and-liyang-sophie-sun-linear-panel-event-studies>
+
 ## 4. Synthetic control
 
 When only one or a few units are treated (for example, one city), synthetic control builds a comparison unit as a weighted average of untreated units. The weights are chosen so that the synthetic unit matches the treated unit before the policy. The method works best with a long pre-treatment period and a good match.
 
-Python packages: `pysyncon` (<https://github.com/sdfordham/pysyncon>). The lab's March 2026 seminar included a hands-on synthetic control workshop.
+Python package: `pysyncon` (<https://github.com/sdfordham/pysyncon>). The lab's March 2026 seminar included a hands-on synthetic control workshop, and its slides and code are on the events page.
 
 **Reference:** Abadie, A. (2021). "Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects." *Journal of Economic Literature* 59(2): 391–425.
 
@@ -69,7 +71,10 @@ Python packages: `pysyncon` (<https://github.com/sdfordham/pysyncon>). The lab's
 
 ## Free resources
 
+- Shapiro's "Some Data Recipes": <https://jmslab.github.io/DataRecipes/>
+
 - *Causal Inference: The Mixtape* (Cunningham): <https://mixtape.scunning.com/>
 - *The Effect* (Huntington-Klein): <https://theeffectbook.net/>
 - *Python for Data Analysis* (McKinney): <https://wesmckinney.com/book/>
 - QuantEcon lectures: <https://quantecon.org/lectures/>
+- Chapters 4 and 5 of the Research Mentoring TA Manual, on common errors in code and empirical results: <https://github.com/NazaninKhazra/research-mentoring-ta-manual>
